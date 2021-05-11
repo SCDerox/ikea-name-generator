@@ -1,0 +1,17 @@
+{
+  "name": "@scderox/ikea-name-generator",
+  "version": "1.0.0",
+  "description": "This package generates a random ikea-name from a list of syllables",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "SCDerox",
+  "license": "WTFPL",
+  "dependencies": {
+    "compromise": "^13.11.2",
+    "nlp_compromise": "^4.12.0",
+    "nlp-syllables": "^0.0.5"
+  }
+}
